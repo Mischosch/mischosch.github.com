@@ -1,0 +1,18 @@
+@font-face {
+	font-family: "Droid";
+	src: url('fonts/DroidSans.ttf') format("truetype");
+}
+ 
+body {
+	color: #333;
+	font-family: Droid, Verdana, sans-serif;
+	margin: 0;
+}
+
+h1 {
+	margin: 25% 0 0;
+	font-size: 0.7em;
+	font-weight: 100;
+	line-height: 1em;
+	text-align: center;
+}
